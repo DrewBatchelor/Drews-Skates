@@ -1,6 +1,8 @@
 # Drews-Skates
 
-## Circuit Python LED Roller Skates by Drew Batchelor 2021 Version 1.0 RC1
+## Circuit Python LED Roller Skates 
+by Drew Batchelor 2021 
+Version 1.0 RC1
 Heavily based on the: 
 
 ## Adafruit LED Ukulele with Feather Sense and PropMaker Wing
