@@ -2,26 +2,28 @@
 
 ## Circuit Python LED Roller Skates 
 by Drew Batchelor 2021 
-Version 1.0 RC1
+Version 1.0 RC2
 Heavily based on the: 
 
-### Adafruit LED Ukulele with Feather Sense and PropMaker Wing
+## Adafruit LED Ukulele with Feather Sense and PropMaker Wing
 Follow the amazing tutorial here:
 https://learn.adafruit.com/light-up-reactive-ukulele
 
 Original Ukulele Code is here:
 https://github.com/adafruit/Adafruit_Learning_System_Guides/tree/main/Ukulele
 
-Adafruit invests time and resources providing this open source code. 
+"Adafruit invests time and resources providing this open source code.
 Please support Adafruit and open source hardware by purchasing products from Adafruit! 
 Written by Erin St Blaine & Limor Fried for Adafruit Industries <--Thank you! 
 Copyright (c) 2019-2020 Adafruit Industries. 
 Licensed under the MIT license. 
-All text above must be included in any redistribution.
+All text above must be included in any redistribution."
 
 ## Code:
 Copy this code to the board and name it "code.py". 
-Be sure to have all the libraries "import" on the board in the lib folder. 
+Be sure to have all the libraries that are listed as "import" at the top of "code.py" saved in the lib folder on the board. 
+At the time of writing, that is import: 
+time, array, digitalio, board, neopixel, random, adafruit_lsm6ds.lsm6ds33, adafruit_led_animation, adafruit_ble.
 
 ## Hardware:
 Adafruit Bluefruit Sense Feather Board. 
