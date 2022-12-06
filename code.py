@@ -65,7 +65,7 @@ from adafruit_bluefruit_connect.button_packet import ButtonPacket
 from adafruit_bluefruit_connect.color_packet import ColorPacket
 
 MAX_BRIGHTNESS = 1.0  # set brightness for non-reactive mode
-BRIGHTNESS = 0.4  # set brightness for non-reactive mode
+BRIGHTNESS = 0.3  # set brightness for non-reactive mode
 brightness_inc = 0.1
 VOLUME_CALIBRATOR = 50  # multiplier for brightness mapping
 ROCKSTAR_TILT_THRESHOLD = 200  # shake threshold
