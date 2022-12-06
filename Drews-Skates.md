@@ -20,7 +20,7 @@ https://github.com/adafruit/Adafruit_Learning_System_Guides/tree/main/Ukulele
 
 Please support Adafruit and open source hardware by purchasing products from Adafruit! 
 
-Written by Erin St Blaine & Limor Fried for Adafruit Industries <--Thank you! 
+Written by Erin St Blaine & Limor Fried for Adafruit Industries 
 
 Copyright (c) 2019-2020 Adafruit Industries. 
 
